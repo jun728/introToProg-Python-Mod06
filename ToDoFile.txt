@@ -1,0 +1,3 @@
+sleep, low
+homework, high
+dinner, high
